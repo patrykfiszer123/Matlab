@@ -1,3 +1,4 @@
+%Kod ten wykreśli wykresy przyspieszeń grawitacyjnych planet Układu Słonecznego
 clear; clc; close all; hold on;
 g = 9.80665;
 l = 0:0.01:10;
